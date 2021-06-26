@@ -1,0 +1,7 @@
+.container-fluid{
+  background-image: url(./img/matrix.jpg);
+  height: 635px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
